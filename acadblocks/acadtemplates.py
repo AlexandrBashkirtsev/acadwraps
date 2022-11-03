@@ -1,12 +1,12 @@
 from pathlib import Path
 import os
 import win32com.client
-import pythoncom
+# import pythoncom
 import uuid
 
 import time
 
-from pyautocad import APoint
+# from pyautocad import APoint
 
 # import settings
 from . import BASE_DIR, ACAD, DOC

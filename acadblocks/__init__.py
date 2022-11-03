@@ -5,11 +5,13 @@ import pythoncom
 import uuid
 
 # comtypes
+'''
 import comtypes.client
 from comtypes import COMError
 from comtypes.client import CreateObject, GetActiveObject
 
 from pyautocad import Autocad
+'''
 
 # SETTINGS
 BASE_DIR = Path(__file__).resolve().parent

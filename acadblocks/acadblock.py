@@ -8,7 +8,7 @@ import array
 
 import time
 
-from pyautocad import APoint
+# from pyautocad import APoint
 
 # import settings
 from . import BASE_DIR, ACAD, DOC
