@@ -1,6 +1,6 @@
 # ACAD wrapping example
 
-This repo contains wrapper classes for easy connection to running ACAD application via win32com.client
+This repo contains classes for easy connection to running ACAD application via win32com.client
 
 ## Description
 
@@ -17,5 +17,4 @@ You can specify PLC processor and modules structure, wrap them in PLCModule Clas
 
 ## Usage case
 
-This script was developed to automate scheme generation for multiple projects. Big quanity of similar connections (PLC-clemms) and a need for project hardware adjustments after documentation release was sufficient factors to automate creation of electrical scheme.
-Wrapper classes for ACAD blocks can be used to develop more complex algorithms and in different cases.
+This script was developed to automate electrical scheme design with reccuring scheme blocks.
